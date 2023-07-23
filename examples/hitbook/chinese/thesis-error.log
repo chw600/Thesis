@@ -1,0 +1,8 @@
+return {
+ ["filename"]="C:/Users/chw600/Desktop/hithesis-我的毕业论文/examples/hitbook/chinese/thesis.tex",
+ ["lastcontext"]="\nl.19 \\documentclass\n                  [fontset=fandol,type=master,campus=shenzhen,tocblank=false...",
+ ["lastluaerror"]="?",
+ ["lasttexerror"]="! Undefined control sequence",
+ ["linenumber"]=19,
+ ["offset"]=10,
+}

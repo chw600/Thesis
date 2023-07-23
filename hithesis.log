@@ -1,0 +1,303 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=latex 2020.6.20)  24 MAY 2021 22:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**hithesis.ins
+(./hithesis.ins
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/docstrip.tex
+\blockLevel=\count167
+\emptyLines=\count168
+\processedLines=\count169
+\commentsRemoved=\count170
+\commentsPassed=\count171
+\codeLinesPassed=\count172
+\TotalprocessedLines=\count173
+\TotalcommentsRemoved=\count174
+\TotalcommentsPassed=\count175
+\TotalcodeLinesPassed=\count176
+\NumberOfFiles=\count177
+\inFile=\read2
+\inputcheck=\read3
+\off@0=\count178
+\off@1=\count179
+\off@2=\count180
+\off@3=\count181
+\off@4=\count182
+\off@5=\count183
+\off@6=\count184
+\off@7=\count185
+\off@8=\count186
+\off@9=\count187
+\off@10=\count188
+\off@11=\count189
+\off@12=\count190
+\off@13=\count191
+\off@14=\count192
+\off@15=\count193
+\@maxfiles=\count194
+\@maxoutfiles=\count195
+
+Utility: `docstrip' 2.5g <2018/05/03>
+English documentation    <2018/05/03>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+)
+
+Generating file(s) ./hithesisbook.cls ./examples/hitbook/chinese/hithesisbook.c
+ls ./examples/hitbook/english/hithesisbook.cls ./hithesisart.cls ./examples/hit
+art/reports/hithesisart.cls ./hithesisartplus.cls ./examples/hitart/reportplus/
+hithesisartplus.cls ./hithesisbook.cfg ./examples/hitbook/chinese/hithesisbook.
+cfg ./examples/hitbook/english/hithesisbook.cfg ./hithesisart.cfg ./examples/hi
+tart/reports/hithesisart.cfg ./examples/hitart/reportplus/hithesisart.cfg ./hit
+hesis.ist ./examples/hitbook/chinese/hithesis.ist ./dtx-style.sty ./examples/hi
+tbook/chinese/hithesis.sty ./examples/hitbook/english/hithesis.sty 
+\openout0 = `./hithesisbook.cls'.
+
+\openout1 = `./examples/hitbook/chinese/hithesisbook.cls'.
+
+\openout2 = `./examples/hitbook/english/hithesisbook.cls'.
+
+\openout3 = `./hithesisart.cls'.
+
+\openout4 = `./examples/hitart/reports/hithesisart.cls'.
+
+\openout5 = `./hithesisartplus.cls'.
+
+\openout6 = `./examples/hitart/reportplus/hithesisartplus.cls'.
+
+\openout7 = `./hithesisbook.cfg'.
+
+\openout8 = `./examples/hitbook/chinese/hithesisbook.cfg'.
+
+\openout9 = `./examples/hitbook/english/hithesisbook.cfg'.
+
+\openout10 = `./hithesisart.cfg'.
+
+\openout11 = `./examples/hitart/reports/hithesisart.cfg'.
+
+\openout12 = `./examples/hitart/reportplus/hithesisart.cfg'.
+
+\openout13 = `./hithesis.ist'.
+
+\openout14 = `./examples/hitbook/chinese/hithesis.ist'.
+
+\openout15 = `./dtx-style.sty'.
+
+
+Processing file hithesis.dtx (bookcls) -> hithesisbook.cls
+                             (bookcls) -> examples/hitbook/chinese/hithesisbook
+.cls
+                             (bookcls) -> examples/hitbook/english/hithesisbook
+.cls
+                             (artcls) -> hithesisart.cls
+                             (artcls) -> examples/hitart/reports/hithesisart.cl
+s
+                             (artpluscls) -> hithesisartplus.cls
+                             (artpluscls) -> examples/hitart/reportplus/hithesi
+sartplus.cls
+                             (bookcfg) -> hithesisbook.cfg
+                             (bookcfg) -> examples/hitbook/chinese/hithesisbook
+.cfg
+                             (bookcfg) -> examples/hitbook/english/hithesisbook
+.cfg
+                             (artcfg) -> hithesisart.cfg
+                             (artcfg) -> examples/hitart/reports/hithesisart.cf
+g
+                             (artcfg) -> examples/hitart/reportplus/hithesisart
+.cfg
+                             (ist) -> hithesis.ist
+                             (ist) -> examples/hitbook/chinese/hithesis.ist
+                             (dtx-style) -> dtx-style.sty
+File hithesis.dtx ended by \endinput.
+Lines  processed: 9636
+Comments removed: 1885
+Comments  passed: 208
+Codelines passed: 7468
+
+\openout0 = `./examples/hitbook/chinese/hithesis.sty'.
+
+\openout1 = `./examples/hitbook/english/hithesis.sty'.
+
+
+Processing file hithesis.dtx (hithesis-style) -> examples/hitbook/chinese/hithe
+sis.sty
+                             (hithesis-style) -> examples/hitbook/english/hithe
+sis.sty
+File hithesis.dtx ended by \endinput.
+Lines  processed: 9636
+Comments removed: 1885
+Comments  passed: 208
+Codelines passed: 7468
+
+
+Generating file(s) ./hithesis.bst ./examples/hitbook/chinese/hithesis.bst ./exa
+mples/hitbook/english/hithesis.bst ./examples/hitart/reports/hithesis.bst ./exa
+mples/hitart/reportplus/hithesis.bst 
+\openout0 = `./hithesis.bst'.
+
+\openout1 = `./examples/hitbook/chinese/hithesis.bst'.
+
+\openout2 = `./examples/hitbook/english/hithesis.bst'.
+
+\openout3 = `./examples/hitart/reports/hithesis.bst'.
+
+\openout4 = `./examples/hitart/reportplus/hithesis.bst'.
+
+
+Processing file hithesis.dtx (bst) -> hithesis.bst
+                             (bst) -> examples/hitbook/chinese/hithesis.bst
+                             (bst) -> examples/hitbook/english/hithesis.bst
+                             (bst) -> examples/hitart/reports/hithesis.bst
+                             (bst) -> examples/hitart/reportplus/hithesis.bst
+File hithesis.dtx ended by \endinput.
+Lines  processed: 9636
+Comments removed: 1885
+Comments  passed: 208
+Codelines passed: 7468
+
+
+Generating file(s) ./hitlogo.eps ./examples/hitbook/chinese/hitlogo.eps ./examp
+les/hitbook/english/hitlogo.eps ./examples/hitart/reports/hitlogo.eps ./example
+s/hitart/reportplus/hitlogo.eps ./bthesistitle.eps ./examples/hitbook/chinese/b
+thesistitle.eps ./examples/hitbook/english/bthesistitle.eps ./examples/hitart/r
+eports/bthesistitle.eps ./examples/hitart/reportplus/bthesistitle.eps ./zfb.eps
+ ./examples/hitbook/chinese/zfb.eps ./examples/hitbook/english/zfb.eps ./exampl
+es/hitart/reports/zfb.eps ./examples/hitart/reportplus/zfb.eps 
+\openout0 = `./hitlogo.eps'.
+
+\openout1 = `./examples/hitbook/chinese/hitlogo.eps'.
+
+\openout2 = `./examples/hitbook/english/hitlogo.eps'.
+
+\openout3 = `./examples/hitart/reports/hitlogo.eps'.
+
+\openout4 = `./examples/hitart/reportplus/hitlogo.eps'.
+
+\openout5 = `./bthesistitle.eps'.
+
+\openout6 = `./examples/hitbook/chinese/bthesistitle.eps'.
+
+\openout7 = `./examples/hitbook/english/bthesistitle.eps'.
+
+\openout8 = `./examples/hitart/reports/bthesistitle.eps'.
+
+\openout9 = `./examples/hitart/reportplus/bthesistitle.eps'.
+
+\openout10 = `./zfb.eps'.
+
+\openout11 = `./examples/hitbook/chinese/zfb.eps'.
+
+\openout12 = `./examples/hitbook/english/zfb.eps'.
+
+\openout13 = `./examples/hitart/reports/zfb.eps'.
+
+\openout14 = `./examples/hitart/reportplus/zfb.eps'.
+
+
+Processing file hithesis.dtx (hitlogo) -> hitlogo.eps
+                             (hitlogo) -> examples/hitbook/chinese/hitlogo.eps
+                             (hitlogo) -> examples/hitbook/english/hitlogo.eps
+                             (hitlogo) -> examples/hitart/reports/hitlogo.eps
+                             (hitlogo) -> examples/hitart/reportplus/hitlogo.ep
+s
+                             (bthesistitle) -> bthesistitle.eps
+                             (bthesistitle) -> examples/hitbook/chinese/bthesis
+title.eps
+                             (bthesistitle) -> examples/hitbook/english/bthesis
+title.eps
+                             (bthesistitle) -> examples/hitart/reports/bthesist
+itle.eps
+                             (bthesistitle) -> examples/hitart/reportplus/bthes
+istitle.eps
+                             (zfb) -> zfb.eps
+                             (zfb) -> examples/hitbook/chinese/zfb.eps
+                             (zfb) -> examples/hitbook/english/zfb.eps
+                             (zfb) -> examples/hitart/reports/zfb.eps
+                             (zfb) -> examples/hitart/reportplus/zfb.eps
+File hithesis.dtx ended by \endinput.
+Lines  processed: 9636
+Comments removed: 1885
+Comments  passed: 208
+Codelines passed: 7468
+
+
+Generating file(s) ./golfer.eps ./examples/hitbook/chinese/figures/golfer.eps .
+/examples/hitbook/english/figures/golfer.eps ./examples/hitart/reports/figures/
+golfer.eps ./examples/hitart/reportplus/figures/golfer.eps 
+\openout0 = `./golfer.eps'.
+
+\openout1 = `./examples/hitbook/chinese/figures/golfer.eps'.
+
+\openout2 = `./examples/hitbook/english/figures/golfer.eps'.
+
+\openout3 = `./examples/hitart/reports/figures/golfer.eps'.
+
+\openout4 = `./examples/hitart/reportplus/figures/golfer.eps'.
+
+
+Processing file hithesis.dtx (golfer) -> golfer.eps
+                             (golfer) -> examples/hitbook/chinese/figures/golfe
+r.eps
+                             (golfer) -> examples/hitbook/english/figures/golfe
+r.eps
+                             (golfer) -> examples/hitart/reports/figures/golfer
+.eps
+                             (golfer) -> examples/hitart/reportplus/figures/gol
+fer.eps
+File hithesis.dtx ended by \endinput.
+Lines  processed: 9636
+Comments removed: 1885
+Comments  passed: 208
+Codelines passed: 7468
+
+***********************************************************
+*
+* To finish the installation you have to move the following
+* files into a directory searched by TeX:
+*
+* The recommended directory is TEXMF/tex/latex/hithesis
+*
+*   hithesisbook.cls
+*   hithesisart.cls
+*   hithesisartplus.cls
+*   hithesisbook.cfg
+*   hithesisart.cfg
+*   hithesis.ist
+*   hithesis.bst
+*   hitlogo.eps
+*   bthesistitle.eps
+*   figures/golfer.eps
+*   zfb.eps
+*
+* To produce the documentation run the files ending with
+* `.dtx' through LaTeX.
+*
+* Happy TeXing!
+***********************************************************
+Overall statistics:
+Files  processed: 5
+Lines  processed: 48180
+Comments removed: 9425
+Comments  passed: 1040
+Codelines passed: 37340
+ ) 
+Here is how much of TeX's memory you used:
+ 621 strings out of 480609
+ 12901 string characters out of 5903656
+ 247134 words of memory out of 5000000
+ 16588 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,15p,469b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
